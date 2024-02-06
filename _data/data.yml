@@ -12,11 +12,11 @@ bio:
   stackoverflow: 350647/ulises-chialva
 
 summary:
-  title: Career Profile
+  title: Perfil Profesional
   description: |
     Soy matemático, con habilidades enfocadas en las aplicaciones. Mi trabajo académico se ha centrado en la neurociencia computacional, y poseo
     fuertes competencias en las áreas de la modelización matemática y la simulación computacional. También me encuentro especializado en
-    ecuaciones diferenciales y el análisis de señales.
+    ecuaciones diferenciales y el análisis de señales. Soy curioso, analítico y aprendo con rapidez.
 
 history:
   title: Experience
@@ -99,8 +99,8 @@ skills:
     - name: LaTeX
       percentage: 80
 
-  other:
-    - name: Linux (Debian &amp; Fedora variants)
+  Otras:
+    - name: Linux (Ubuntu &amp; Mint)
     - name: Windows 10
 
 
