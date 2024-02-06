@@ -19,19 +19,17 @@ summary:
     ecuaciones diferenciales y el análisis de señales. Soy curioso, analítico y aprendo con rapidez.
 
 history:
-  title: Experience
+  title: Experiencia
   roles:
     - position: Docente & Investigador
       company: Universidad Nacional del Sur
       location: Bahía Blanca
-      time: 2022 - Present
+      time: 2015 - Presente
       description: |
         Trabajo como docente e investigador universitario asociado al Departamento de Matemática. He dictado cursos avanzados 
-        destinado principalmente a estudiantes de ingeniería mecánica e industrial. Además me encuentro vinculado al grupo de 
+        destinados principalmente a estudiantes de ingeniería mecánica e industrial. Además me encuentro vinculado al grupo de 
         Matemática Aplicada del Departamento.
 
-          - Bullet point
-          - Bullet point
       technologies:
         - name: SciPy
         - name: MatPlotLib
@@ -45,8 +43,6 @@ history:
       description: |
         Realicé investigación como posdoc financiado por una beca del CONICET, en el campo de la Neurociencia Computacional.
 
-          - Bullet point
-          - Bullet point
       technologies:
         - name: Modelización Matemática
         - name: Simulación Computacional
@@ -61,14 +57,12 @@ history:
         Realicé investigaciones de posgrado en el área de los Sistemas Dinámicos, especializándome en sistemas diferenciales discontinuos
         y redes neuronales.
 
-          - Bullet point
-          - Bullet point
       technologies:
         - name: Ecuaciones Diferenciales
         - name: SciPy
         - name: Comunicación Científica
 
-      achivements: |
+      Producción: |
         Trabajos Publicados
         * "Theta and gamma rhythmic coding through two spike output modes in the hippocampus during spatial navigation". Cell Reports, 42(8).
         * "Modeling of single neurons: low-dimensional models". Biological Cybernetics.
