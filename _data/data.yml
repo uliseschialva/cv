@@ -1,15 +1,15 @@
 bio:
-  name: John Doe
-  title: An Awesome Developer
-  avatar: profile.jpg
-  email: john@doe.com
+  name: Ulises Chialva
+  title: Un matemático curioso
+  avatar: profile.jpeg
+  email: uchialva@gmail.com
   telephone: 012 345 6789
-  website: johndoe.blogger.com
-  linkedin: johndoe
-  github: johnnycoder
-  gitlab: johnnycoder
-  twitter: johnnytweeter
-  stackoverflow: 890226/johnnyststacker
+  website: uliseschialva.github.io
+  linkedin: ulises-chialva-634584117/
+  github: uliseschialva
+  #gitlab: johnnycoder
+  twitter: u_chialva
+  stackoverflow: 350647/ulises-chialva
 
 summary:
   title: Career Profile
@@ -25,134 +25,111 @@ summary:
 history:
   title: Experience
   roles:
-    - position: Lead Developer
-      company: Startup Hubs
-      location: San Francisco, CA
-      time: 2015 - Present
+    - position: Docente & Investigador
+      company: Universidad Nacional del Sur
+      location: Bahía Blanca
+      time: 2022 - Present
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Trabajo como docente e investigador universitario asociado al Departamento de Matemática. He dictado cursos avanzados 
+        destinado principalmente a estudiantes de ingeniería mecánica e industrial. Además me encuentro vinculado al grupo de 
+        Matemática Aplicada del Departamento.
 
           - Bullet point
           - Bullet point
       technologies:
-        - name: Java
-        - name: Spring
-        - name: Tomcat
-        - name: MySQL
+        - name: SciPy
+        - name: MatPlotLib
+        - name: LaTeX
 
-    - position: Senior Software Engineer
+    - position: Investigador Postdoctoral
       # page_break: true
-      company: Google
-      location: London
-      time: 2014 - 2015
+      company: CONICET
+      location: Bahía Blanca
+      time: 2020 - 2023
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Realicé investigación como posdoc financiado por una beca del CONICET, en el campo de la Neurociencia Computacional.
 
           - Bullet point
           - Bullet point
       technologies:
-        - name: Go
-        - name: Java
-        - name: Spring
-        - name: Kubernetes
+        - name: Modelización Matemática
+        - name: Simulación Computacional
+        - name: Análisis de Señales
+        - name: Redacción Científica
 
-    - position: UI Developer
-      company: Amazon
-      location: London
-      time: 2012 - 2014
+    - position: Becario Doctoral
+      company: Universidad Nacional del Sur/CONICET
+      location: Bahía Blanca
+      time: 2015 - 2019
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Realicé investigaciones de posgrado en el área de los Sistemas Dinámicos, especializándome en sistemas diferenciales discontinuos
+        y redes neuronales.
 
           - Bullet point
           - Bullet point
       technologies:
-        - name: JavaScript
-        - name: Vue.js
-        - name: Webpack
-        - name: MongoDB
+        - name: Ecuaciones Diferenciales
+        - name: SciPy
+        - name: Comunicación Científica
 
       achivements: |
-        Highlights here
-        * Thing 1
-        * Thing 2
-          - Sub Thing 1
-
+        Trabajos Publicados
+        * "Theta and gamma rhythmic coding through two spike output modes in the hippocampus during spatial navigation". Cell Reports, 42(8).
+        * "Modeling of single neurons: low-dimensional models". Biological Cybernetics.
+        * "On global mechanisms of synchronization in networks of coupled chaotic circuits and the role of the voltage-type coupling". SN Applied Sciences
+        * "Synchronicity in non-smooth competitive networks with threshold nonlinearities". Journal of Applied Nonlinear Dynamics
+        * "Heteroclinic cycles in a competitive network". International Journal of Bifurcation and Chaos
+        
 skills:
-  frontend:
-    - name: JavaScript
+  Docencia:
+    - name: Redacción Científica
+      percentage: 80
+    - name: Comunicación Profesional
       percentage: 70
-    - name: HTML5
-      percentage: 60
-    - name: Sass
-      percentage: 50
-  backend:
-    - name: Java 8
+    - name: Capacidad Docente
+      percentage: 55
+  Especializaciones:
+    - name: Modelización Matemática
+      percentage: 90
+    - name: Simulación Computacional
       percentage: 100
-    - name: Bash
-      percentage: 95
-    - name: Python
+    - name: Análisis de Señales
       percentage: 80
-    - name: Flask &amp; SQLAlchemy
+  Tecnologías:
+    - name: SciPy
+      percentage: 90
+    - name: MatplotLib
       percentage: 80
-    - name: Ruby
-      percentage: 50
-    - name: Go
-      percentage: 15
-    - name: Elixir
-      percentage: 10
-    - name: C/C++
-      percentage: 5
+    - name: LaTeX
+      percentage: 80
 
   other:
     - name: Linux (Debian &amp; Fedora variants)
-    - name: macOS
     - name: Windows 10
-    - name: Sketch
-    - name: JIRA
-    - name: Scrum
-    - name: Docker
-    - name: Vagrant
+
 
 education:
-  - degree: MSc in Computer Science
-    name: University of London
-    time: 2011 - 2012
-    gpa: 3.21
-  - degree: BSc in Applied Mathematics
-    name: Bristol University
-    time: 2007 - 2011
-    gpa: 3.21
+  - degree: Dr. en Matemáticas
+    name: Universidad Nacional del Sur
+    time: 2015 - 2019
+  - degree: Licenciado en Ciencias Matemáticas
+    name: Universidad del Centro
+    time: 2009 - 2015
 
-awards:
-  - name: Apple Design Award 2017
-    description: |
-      UI Design for my cool app
-  - name: Best Coder 2019
-    description: Competition at a place
+
+#awards:
+#  - name: Apple Design Award 2017
+#    description: |
+#      UI Design for my cool app
+#  - name: Best Coder 2019
+#    description: Competition at a place
 
 languages:
-  - name: English
-    proficiency: Native
-  - name: French
-    proficiency: Professional
-  - name: Spanish
-    proficiency: Professional
+  - name: Español
+    proficiency: Nativo
+  - name: Ingles
+    proficiency: Competencia Profesional
+
 
 interests:
   - name: Hiking
@@ -163,14 +140,14 @@ interests:
     icon: fas fa-biking
 
 
-organizations:
-  - name: Rotary
-    link: http://www.rotary.org
-    date: 2010
+#organizations:
+#  - name: Rotary
+#    link: http://www.rotary.org
+#    date: 2010
 
-  - name: Mainstreet
-    link: https://www.mainstreet.org
-    date: 2011
+#  - name: Mainstreet
+#    link: https://www.mainstreet.org
+#    date: 2011
 
-  - name: Makers
-    date: 2014
+#  - name: Makers
+#    date: 2014
