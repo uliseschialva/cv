@@ -62,7 +62,7 @@ history:
         - name: SciPy
         - name: Comunicación Científica
 
-      Producción: |
+      Produccion: |
         Trabajos Publicados
         * "Theta and gamma rhythmic coding through two spike output modes in the hippocampus during spatial navigation". Cell Reports, 42(8).
         * "Modeling of single neurons: low-dimensional models". Biological Cybernetics.
