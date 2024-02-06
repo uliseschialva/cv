@@ -112,9 +112,11 @@ education:
   - degree: Dr. en Matemáticas
     name: Universidad Nacional del Sur
     time: 2015 - 2019
+    gpa: 5 años
   - degree: Licenciado en Ciencias Matemáticas
     name: Universidad del Centro
     time: 2009 - 2015
+    gpa: 6 años
 
 
 #awards:
