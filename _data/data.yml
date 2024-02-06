@@ -71,7 +71,7 @@ history:
         * "Heteroclinic cycles in a competitive network". International Journal of Bifurcation and Chaos
         
 skills:
-  Comunicación:
+  Comunicacion:
     - name: Redacción Científica
       percentage: 80
     - name: Oratoria Específica
@@ -85,7 +85,7 @@ skills:
       percentage: 100
     - name: Análisis de Señales
       percentage: 80
-  Tecnologías:
+  Tecnologias:
     - name: SciPy
       percentage: 90
     - name: MatplotLib
