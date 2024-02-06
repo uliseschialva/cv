@@ -1,4 +1,4 @@
-title: John Doe - Awesome Engineer
+title: Ulises Chialva - Maestro de Cálculos
 
 # Theme primary chooses
 cello: &cello "#434E5E"
@@ -9,7 +9,7 @@ governor_bay: &governor_bay "#59578E"
 cosmic: &cosmic "#80425F"
 
 theme_color: *cello
-description: John Doe - Awesome Engineer
+description: Ulises Chialva - Maestro de Cálculos
 repository: RobertDeRose/pillar-resume-template
 
 sass:
