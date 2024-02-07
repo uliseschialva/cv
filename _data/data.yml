@@ -15,11 +15,11 @@ summary:
   title: Perfil Profesional
   description: |
     Soy matemático, con habilidades enfocadas en las aplicaciones. Mi trabajo académico se ha centrado en la neurociencia computacional, y poseo
-    fuertes competencias en las áreas de la modelización matemática y la simulación computacional. También me encuentro especializado en
-    ecuaciones diferenciales y el análisis de señales. Soy curioso, analítico y aprendo con rapidez.
+    fuertes competencias en modelización matemática y simulación computacional. También me encuentro especializado en
+    ecuaciones diferenciales y el análisis de señales. Aquí pueden consultar mi cv académico. Soy curioso, analítico y aprendo con rapidez.
 
-    Actualmente busco opciones laborales flexibles que me permitan vincular mi formación académica y complementar mi carrera académica
-    con aplicaciones en el sector privado.
+    Actualmente busco opciones laborales flexibles, que me permitan vincular mi formación académica y complementar mi carrera académica
+    con aplicaciones en el sector privado. 
 
 history:
   title: Experiencia
@@ -127,12 +127,12 @@ languages:
 
 
 interests:
-  - name: Hiking
-    icon: fas fa-hiking
-  - name: Fishing
+  - name: Literatura
+    icon: fas fa-book
+  - name: Musica
     icon: fas fa-fish
-  - name: Cycling
-    icon: fas fa-biking
+  - name: Política
+    icon: fas fa-globe
 
 
 #organizations:
