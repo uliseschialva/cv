@@ -130,7 +130,7 @@ interests:
   - name: Literatura
     icon: fas fa-book
   - name: Musica
-    icon: fas fa-fish
+    icon: fas fa-music
   - name: Política
     icon: fas fa-globe
 
